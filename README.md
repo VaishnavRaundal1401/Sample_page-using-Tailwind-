@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 # Sample_page-using-Tailwind-
 # Sample_page_Tailwind
 # Sample_page_Tailwind
+# Sample_Tailwind
